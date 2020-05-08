@@ -1,4 +1,4 @@
-namespace Flyweight
+namespace Flyweight_11
 {
     public abstract class Flyweight
     {

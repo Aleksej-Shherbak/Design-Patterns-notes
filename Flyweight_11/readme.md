@@ -70,7 +70,7 @@ Console.WriteLine(ReferenceEquals(a, b));
 ![flyweight factory](flyweight_factory.png)
 
 Если такой Flyweight есть, то мы выдаем его по ключу.
-Если нет, то создаем новый по переданому ключу.
+Если нет, то создаем новый по переданному ключу.
 
 ##### Применимость по GoF
 

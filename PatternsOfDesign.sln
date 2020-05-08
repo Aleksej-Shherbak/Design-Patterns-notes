@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_9", "Decorator_9\Decorator_9.csproj", "{A3B1DEE2-6EBE-4297-9BD2-E78005C874BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{8AECC144-4DA1-432B-8610-7F62355416B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight_11", "Flyweight_11\Flyweight_11.csproj", "{8AECC144-4DA1-432B-8610-7F62355416B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

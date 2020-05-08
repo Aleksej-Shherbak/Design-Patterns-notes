@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Flyweight
+namespace Flyweight_11
 {
     class Program
     {

@@ -1,4 +1,4 @@
-namespace Flyweight
+namespace Flyweight_11
 {
     /// <summary>
     /// Это всего лишь роль. Она не может говорить. Это просто костюм.
