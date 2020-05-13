@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility_13", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command_14", "Command_14\Command_14.csproj", "{1EDD84B1-55E5-4DAC-8325-1DE9B8B78AC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter_15", "Interpreter_15\Interpreter_15.csproj", "{BF034C6D-7352-46FA-B438-B32A306295E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1EDD84B1-55E5-4DAC-8325-1DE9B8B78AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EDD84B1-55E5-4DAC-8325-1DE9B8B78AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EDD84B1-55E5-4DAC-8325-1DE9B8B78AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF034C6D-7352-46FA-B438-B32A306295E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF034C6D-7352-46FA-B438-B32A306295E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF034C6D-7352-46FA-B438-B32A306295E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF034C6D-7352-46FA-B438-B32A306295E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
