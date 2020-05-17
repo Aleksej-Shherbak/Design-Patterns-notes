@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter_15", "Interpret
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator_16", "Iterator_16\Iterator_16.csproj", "{58DE2D64-C936-40AF-BCAE-36F65ADF0A2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator_17", "Mediator_17\Mediator_17.csproj", "{0F7BFC07-1054-435E-90CE-69D36016EFF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{58DE2D64-C936-40AF-BCAE-36F65ADF0A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DE2D64-C936-40AF-BCAE-36F65ADF0A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DE2D64-C936-40AF-BCAE-36F65ADF0A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7BFC07-1054-435E-90CE-69D36016EFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7BFC07-1054-435E-90CE-69D36016EFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7BFC07-1054-435E-90CE-69D36016EFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7BFC07-1054-435E-90CE-69D36016EFF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
