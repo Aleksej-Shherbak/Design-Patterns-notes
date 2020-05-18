@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento_18", "Memento_18\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer_19", "Observer_19\Observer_19.csproj", "{84DB6212-59D1-4931-BA6C-0EBAA41C9BDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy_21", "Strategy_21\Strategy_21.csproj", "{26F01692-AFBB-421F-B45F-281FE6E09B99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{84DB6212-59D1-4931-BA6C-0EBAA41C9BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84DB6212-59D1-4931-BA6C-0EBAA41C9BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84DB6212-59D1-4931-BA6C-0EBAA41C9BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F01692-AFBB-421F-B45F-281FE6E09B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F01692-AFBB-421F-B45F-281FE6E09B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F01692-AFBB-421F-B45F-281FE6E09B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F01692-AFBB-421F-B45F-281FE6E09B99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
